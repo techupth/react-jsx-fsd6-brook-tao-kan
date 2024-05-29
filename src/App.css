@@ -24,6 +24,7 @@
 }
 
 /* Style for the article container */
+
 .article {
   display: flex;
   flex-direction: column;
