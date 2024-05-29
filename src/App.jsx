@@ -20,8 +20,8 @@ function IntroSection() {
   };
   return (
     <div className={articleStyles.container}>
-      <h3 className="articleStyles.title">TechUp Thailand</h3>
-      <p className="articleStyles.body">
+      <h3 className={articleStyles.title}>TechUp Thailand</h3>
+      <p className={articleStyles.body}>
         เตรียมพบกับหลักสูตรปั้นคุณเป็น Software Developer ภายใน 4 เดือน
       </p>
       <a
